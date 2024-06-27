@@ -13,6 +13,7 @@ export default function Home() {
 
   doSomething(null, "hello");
 
+  // data static
   const text = "text";
 
   if (text === "text") {
